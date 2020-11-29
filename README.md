@@ -1,4 +1,12 @@
-# Introduction
+# Simple Cache
+
+## Deprecated with Nitrogen
+
+This version has been deprecated with use of Nitrogen in favor of [NitroCache](https://github.com/nitrogen/nitro_cache)
+
+This is kept here for use with the book [Build it with Nitrogen](https://builditwithnitrogen.com).
+
+## Information
 
 This is a fork of [simple_cache](https://github.com/marcelog/simple_cache)
 modified specifically for the needs of integration with the [Nitrogen Web
