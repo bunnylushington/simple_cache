@@ -1,5 +1,5 @@
 {application, simple_cache, [
-  {description, "Small simple cache using ETS"},
+  {description, "Compatibility Mapping Module from SimpleCache to NitroCache"},
   {vsn, "0.2"},
   {registered, []},
   {applications, [kernel, stdlib]},
